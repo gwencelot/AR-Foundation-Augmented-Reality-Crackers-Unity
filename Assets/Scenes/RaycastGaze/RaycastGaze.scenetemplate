@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: RaycastGaze
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 77d373a35df3d624a9c32464ee2a0e50, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f,
+      type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 8a0f4664ff62c90438007fb5f7861fb3, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2455857785477833374, guid: 648969ad57126ce48b1f9bfda0191bdb,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8236c695e72414e7889fb3f4d8226fde, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: bad94c7c5841e4b1eac9ec60ccaacb61, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: -927199367670048503, guid: 2229c6e311f03ef43bc57f44fa0bad65,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: bdb4f0e72d599d24e9d023a50c9be9f4, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 7b8bfaee8f8631c4789ac62373cbc2d4, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 1585201990951412, guid: 558adfc604a3a4547a8bdee1c9bb7e87,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 654885826876238738, guid: fcb66684c9ac1694e8cb6fc907a578ff,
+      type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
